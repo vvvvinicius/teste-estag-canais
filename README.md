@@ -2,7 +2,7 @@
 
 Olá! Para seguirmos com o nosso processo seletivo para o nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, clone essa branch na sua máquina e crie uma outra branch a partir dela.
+Primeiro, clone essa branch na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva
 
 A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
 
