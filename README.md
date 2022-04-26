@@ -24,7 +24,14 @@ Ao final da operação, uma mensagem deverá ser exibida:
 1. Se a transferência for bem sucedida, exibir mensagem de sucesso com o saldo do emissor e do receptor após a transferência.
 2. Se a transferência não for completada, exibir mensagem de erro explicando o motivo.
 
-Escolha a linguagem na qual se sentir mais confortável em desenvolver o algortimo e pense nos casos de teste descritos acima! 
+Escolha, dentre as opoções de linguagens de programação abaixo, qual se sentir mais confortável em desenvolver o algortimo e pense nos casos de teste descritos acima! 
+
+1. Java
+2. Python
+3. Swift
+4. Kotlin
+5. Typescript 
+6. C, C++/C#
 
 Ao finalizar o seu desafio, crie um pull request para essa branch, seguindo o passo a passo descrito no link - https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/
 
