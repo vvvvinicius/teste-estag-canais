@@ -11,11 +11,13 @@ A partir de uma entrada de arquivo TXT, como o contido neste repositório, com d
 Desenvolva um algoritmo que execute operações de transferência bancária obedecendo os seguintes critérios: 
 
 1. Toda transferência deverá ser feita entre um emissor e um receptor;
-2. As transferências deverão ser executadas de acordo com o seu tipo, sendo 3 os tipos de transferência: PIX, TED e DOC;
-3. O limite de valor máximo permitido para uma transferência via PIX é de R$ 5 mil; 
-4. Transferências via TED só são permitidas para valores a acima de R$ 5 mil; 
-5. Transferências via DOC só são permitidas para valores acima de R$ 10 mil; 
-6. Não serão permitidas transferências para a mesma conta, mas um emissor pode transferir para ele mesmo se for uma conta diferente;
+2. Operador e receptor iniciam a operação com um saldo de R$ 0,00;
+3. As transferências deverão ser executadas de acordo com o seu tipo, sendo 3 os tipos de transferência: PIX, TED e DOC;
+4. O limite de valor máximo permitido para uma transferência via PIX é de R$ 5 mil; 
+5. Transferências via TED só são permitidas para valores a acima de R$ 5 mil; 
+6. Transferências via DOC só são permitidas para valores acima de R$ 10 mil; 
+7. Não serão permitidas transferências para a mesma conta, mas um emissor pode transferir para ele mesmo se for uma conta diferente;
+8. As entradas deverão estar sempre com todos os dados preenchidos.
 
 Ao final da operação, uma mensagem deverá ser exibida: 
 
