@@ -15,7 +15,7 @@ Desenvolva um algoritmo que execute operações de transferência bancária obed
 3. O limite de valor máximo permitido para uma transferência via PIX é de R$ 5 mil; 
 4. Transferências via TED só são permitidas para valores a acima de R$ 5 mil; 
 5. Transferências via DOC só são permitidas para valores acima de R$ 10 mil; 
-6. Não poderão ser permitidas transferências de um emissor para ele mesmo nem para uma mesma conta; 
+6. Não serão permitidas transferências de um emissor para ele mesmo nem para uma mesma conta; 
 
 Escolha a linguagem na qual se sentir mais confortável em desenvolver o algortimo e pense nos casos de teste descritos acima! 
 
