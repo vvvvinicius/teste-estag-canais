@@ -19,7 +19,7 @@ Desenvolva um algoritmo que execute operações de transferência bancária obed
 
 Escolha a linguagem na qual se sentir mais confortável em desenvolver o algortimo e pense nos casos de teste descritos acima! 
 
-Ao finalizar o seu desafio, crie um pull request para essa brach, seguindo o passo a passo descrito no link - https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/
+Ao finalizar o seu desafio, crie um pull request para essa branch, seguindo o passo a passo descrito no link - https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/
 
 Boa sorte! 
 
