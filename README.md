@@ -2,13 +2,18 @@
 
 ![alt text](https://static.vecteezy.com/system/resources/previews/003/326/613/non_2x/software-engineering-concept-for-website-and-mobile-site-vector.jpg)
 
-Olá! Para seguirmos com o nosso processo seletivo para o nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
+Olá! Para seguirmos com o nosso processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, clone essa branch na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva (ler documentação - https://rogerdudler.github.io/git-guide/)
+Primeiro, clone esse projeto na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva (ler documentação - https://rogerdudler.github.io/git-guide/)
 
 A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
 
- "{\"id_transferencia\":1,\"valor_transferencia\":\"500\",\"tipo_transferencia\":\"PIX\",\"nome_emissor\":\"joao\",\"agencia_emissor\":\"001\",\"conta_emissor\":\"1234\",\"cpf_emissor\":\"123.123.123-12\",\"nome_receptor\":\"maria\",\"agencia_receptor\":\"002\",\"conta_receptor\":\"1335\",\"cpf_receptor\":\"112.113.114-15\"}" 
+ "{\"id_transferencia\":1,\"valor_transferencia\":\"500\",
+ \"tipo_transferencia\":\"PIX\",\"nome_emissor\":\"joao\",
+ \"agencia_emissor\":\"001\",\"conta_emissor\":\"1234\",
+ \"cpf_emissor\":\"123.123.123-12\",\"nome_receptor\":\"maria\",
+ \"agencia_receptor\":\"002\",\"conta_receptor\":\"1335\",
+ \"cpf_receptor\":\"112.113.114-15\"}" 
 
 Desenvolva um algoritmo que execute operações de transferência bancária obedecendo os seguintes critérios: 
 
