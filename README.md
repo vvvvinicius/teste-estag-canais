@@ -1,8 +1,10 @@
 # teste-estag-canais
 
+![alt text](https://static.vecteezy.com/system/resources/previews/003/326/613/non_2x/software-engineering-concept-for-website-and-mobile-site-vector.jpg)
+
 Olá! Para seguirmos com o nosso processo seletivo para o nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, clone essa branch na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva
+Primeiro, clone essa branch na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva (ler documentação - https://rogerdudler.github.io/git-guide/)
 
 A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
 
