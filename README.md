@@ -10,12 +10,19 @@ No final do teste, envie no e-mail que você recebeu sobre a vaga, a URL do seu 
 
 A partir desse formato de entrada
 
- "{\"id_transferencia\":1,\"valor_transferencia\":\"500\",
- \"tipo_transferencia\":\"PIX\",\"nome_emissor\":\"joao\",
- \"agencia_emissor\":\"001\",\"conta_emissor\":\"1234\",
- \"cpf_emissor\":\"123.123.123-12\",\"nome_receptor\":\"maria\",
- \"agencia_receptor\":\"002\",\"conta_receptor\":\"1335\",
- \"cpf_receptor\":\"112.113.114-15\"}" 
+{
+  "id_transferencia": 1,
+  "valor_transferencia": "500",
+  "tipo_transferencia": "PIX",
+  "nome_emissor": "joao",
+  "agencia_emissor": "001",
+  "conta_emissor": "1234",
+  "cpf_emissor": "123.123.123-12",
+  "nome_receptor": "maria",
+  "agencia_receptor": "002",
+  "conta_receptor": "1335",
+  "cpf_receptor": "112.113.114-15"
+}
 
 Desenvolva um algoritmo que execute operações de transferência bancária obedecendo os seguintes critérios: 
 
