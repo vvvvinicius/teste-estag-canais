@@ -8,7 +8,7 @@ Primeiro, faça um fork desse repositório e adicione no seu github pessoal, cli
 
 No final do teste, envie no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
 
-A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
+A partir desse formato de entrada
 
  "{\"id_transferencia\":1,\"valor_transferencia\":\"500\",
  \"tipo_transferencia\":\"PIX\",\"nome_emissor\":\"joao\",
