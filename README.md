@@ -4,7 +4,9 @@
 
 Olá! Para seguirmos com o nosso processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, faça um fork desse repositório e adicione no seu github pessoal. No final do teste, envio no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
+Primeiro, faça um fork desse repositório e adicione no seu github pessoal, clicando nesse link -> https://github.com/itau-canais-estag/teste-estag-canais/fork
+
+No final do teste, envio no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
 
 A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
 
