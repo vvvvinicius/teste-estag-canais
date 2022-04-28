@@ -8,23 +8,7 @@ Primeiro, faça um fork desse repositório e adicione no seu github pessoal, cli
 
 No final do teste, envie no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
 
-A partir desse formato de entrada JSON
-
-{<br>
-  "id_transferencia": 1,<br>
-  "valor_transferencia": "500",<br>
-  "tipo_transferencia": "PIX",<br>
-  "nome_emissor": "joao",<br>
-  "agencia_emissor": "001",<br>
-  "conta_emissor": "1234",<br>
-  "cpf_emissor": "123.123.123-12",<br>
-  "nome_receptor": "maria",<br>
-  "agencia_receptor": "002",<br>
-  "conta_receptor": "1335",<br>
-  "cpf_receptor": "112.113.114-15"<br>
-}
-
-Desenvolva um algoritmo que execute operações de transferência bancária obedecendo os seguintes critérios: 
+A partir do arquivo de **entrada.txt**, onde a primeira linha representa as variáveis e a segunda representa os valores, desenvolva um algoritmo que execute operações de transferência bancária obedecendo os seguintes critérios: 
 
 1. Toda transferência deverá ser feita entre um emissor e um receptor;
 2. Operador e receptor iniciam a operação com um saldo de R$ 0,00;
