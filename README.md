@@ -49,5 +49,7 @@ Escolha, dentre as opoções de linguagens de programação abaixo, qual se sent
 
 Ao finalizar o seu desafio, crie um pull request para essa branch, seguindo o passo a passo descrito no link - https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/
 
+Será observado o uso de boas práticas de programação, bem como orientaçao à objetos e se possível, aplicação de padrões de projeto. 
+
 Boa sorte! 
 
