@@ -4,7 +4,7 @@
 
 Olá! Para seguirmos com o nosso processo seletivo do nosso programa de estágio, precisamos que você solucione o problema de lógica abaixo:
 
-Primeiro, clone esse projeto na sua máquina e crie uma outra branch com seu nome a partir dela. Ex.: teste/joao_da_silva (ler documentação - https://rogerdudler.github.io/git-guide/)
+Primeiro, faça um fork desse repositório e adicione no seu github pessoal. No final do teste, envio no e-mail que você recebeu sobre a vaga, a URL do seu repositório! 
 
 A partir de uma entrada de arquivo TXT, como o contido neste repositório, com dados no seguinte formato: 
 
@@ -46,8 +46,6 @@ Escolha, dentre as opoções de linguagens de programação abaixo, qual se sent
 4. Kotlin
 5. Typescript 
 6. C, C++/C#
-
-Ao finalizar o seu desafio, crie um pull request para essa branch, seguindo o passo a passo descrito no link - https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/
 
 Será observado o uso de boas práticas de programação, bem como orientaçao à objetos e se possível, aplicação de padrões de projeto. 
 
